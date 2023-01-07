@@ -15,21 +15,6 @@ A brief description of what this project does and who it's for
 
 ## Certificates
 
-## Find me here
-<div id="badges">
-  <a href="https://www.linkedin.com/in/anna-kh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-## Acknowledgements
-
-- [Awesome Readme Templates](https://awesomeopensource.com/project/AnnaKh85/awesome-README-templates)
-- [Awesome README](https://github.com/AnnaKh85/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnnaKh85&theme=sea&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -40,7 +25,13 @@ A brief description of what this project does and who it's for
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaKh85&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnnaKh85&theme=sea&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## Find me here
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anna-kh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ## Feedback
 
