@@ -32,3 +32,5 @@ If you have any feedback, please reach out to us at fake@fake.com
 <img src="https://github-profile-trophy.vercel.app/?username=g3root" alt="g3root" />
 </a>
 </p>
+
+https://img.shields.io/github/commit-activity/m/AnnaKh85/DiplomaGB
