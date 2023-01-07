@@ -33,4 +33,4 @@ If you have any feedback, please reach out to us at fake@fake.com
 </a>
 </p>
 
-https://img.shields.io/github/commit-activity/m/AnnaKh85/DiplomaGB
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/AnnaKh85/AnnaKh85)
