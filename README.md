@@ -4,7 +4,7 @@ A brief description of what this project does and who it's for
 
 ### [Link to my CV](https://1drv.ms/b/s!AlWNzi4oJ48CeB-52PkpyTtWMWA?e=bbyWfq "Link to my CV")
 
-### [My diploma project](http://LinkToTheRepositoryWithDiploma "My diploma project")
+### [My diploma project](https://github.com/AnnaKh85/DiplomaGB "My diploma project")
 
 ### Test artefacts
 - [Test disign techniques](http://Somelink "Test disign techniques")
