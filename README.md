@@ -1,7 +1,4 @@
 # I am a QA Engineer
-
-A brief description of what this project does and who it's for
-
 #### [Link to my CV](https://drive.google.com/file/d/1sDjkdvUF-4oZ8ZHJmgRCvh5gfEbA_n3Z/view?usp=sharing)
 #### [My diploma project](https://github.com/AnnaKh85/DiplomaGB)
 
