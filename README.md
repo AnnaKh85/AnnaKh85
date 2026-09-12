@@ -1,4 +1,4 @@
-# I am a QA Engineer
+# I am a AQA Engineer
 #### [Link to my CV](https://drive.google.com/file/d/1sDjkdvUF-4oZ8ZHJmgRCvh5gfEbA_n3Z/view?usp=sharing)
 #### [My diploma project](https://github.com/AnnaKh85/DiplomaGB)
 
