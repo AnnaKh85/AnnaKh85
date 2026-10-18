@@ -1,6 +1,4 @@
 # I am a AQA Engineer
-#### [Link to my CV](https://drive.google.com/file/d/1sDjkdvUF-4oZ8ZHJmgRCvh5gfEbA_n3Z/view?usp=sharing)
-#### [My diploma project](https://github.com/AnnaKh85/DiplomaGB)
 
 ### Test artefacts
  - [x] [Test disign techniques](https://annakh-working-site.notion.site/Recipetopedia-Project-59a2624e07494c5cbf2a0eec06724ca5)
