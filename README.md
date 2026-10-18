@@ -3,9 +3,9 @@
 #### [My diploma project](https://github.com/AnnaKh85/DiplomaGB)
 
 ### Test artefacts
- - [ ] [Test disign techniques](https://annakh-working-site.notion.site/Recipetopedia-Project-59a2624e07494c5cbf2a0eec06724ca5)
+ - [x] [Test disign techniques](https://annakh-working-site.notion.site/Recipetopedia-Project-59a2624e07494c5cbf2a0eec06724ca5)
  - [x] [Web app testing (cypress)](https://github.com/AnnaKh85/MyRepo_RECTests)
- - [ ] [Web app testing (selenium)](https://github.com/AnnaKh85/RedRoverTests)
+ - [x] [Web app testing (selenium)](https://github.com/AnnaKh85/RedRoverTests)
  - [x] [Testing API with Postman](https://www.postman.com/gold-star-384207/workspace/recipetoria/overview)
 
 ### Language and tools
