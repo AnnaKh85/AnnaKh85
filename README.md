@@ -7,6 +7,7 @@ I specialize in building and maintaining automated tests for complex enterprise 
 ### Test artefacts
  - [Web app testing (Selenium)](https://github.com/AnnaKh85/REC_tests_celenium)
  - [PostgreSQL: Data Validation & SQL Queries](https://github.com/AnnaKh85/DB_query)
+ - [Backend Data Validation - Python & Pytest](https://github.com/AnnaKh85/Script-Portfolio)
  - [Cypress, Docker и Jenkins](https://github.com/AnnaKh85/MyRepo_RECTests)
  - [Testing API with Postman](https://www.postman.com/gold-star-384207/workspace/recipetoria/overview)
 
