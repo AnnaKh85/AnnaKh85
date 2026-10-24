@@ -1,16 +1,17 @@
 # QA Automation Engineer
 
-I'm a QA Automation Engineer with 8+ years of hands-on test automation experience in Python and Java, backed by a strong background in enterprise software, quality assurance, and business analysis.
+I'm a QA Automation Engineer with 8+ years of experience in software quality assurance and business analysis, including hands-on test automation in Python and Java.
 
 I specialize in building and maintaining automated tests for complex enterprise applications, with a focus on backend, API, integration, and E2E testing.
 
 ### Test artefacts
- - [x] [Test Design Techniques](https://annakh-working-site.notion.site/Recipetopedia-Project-59a2624e07494c5cbf2a0eec06724ca5)
- - [x] [Web app testing (Selenium)](https://github.com/AnnaKh85/RedRoverTests)
- - [x] [Testing API with Postman](https://www.postman.com/gold-star-384207/workspace/recipetoria/overview)
+ - [Test Design Techniques](https://annakh-working-site.notion.site/Recipetopedia-Project-59a2624e07494c5cbf2a0eec06724ca5)
+ - [Web app testing (Selenium)](https://github.com/AnnaKh85/REC_tests_celenium)
+ - [Cypress, Docker и Jenkins](https://github.com/AnnaKh85/MyRepo_RECTests)
+ - [Testing API with Postman](https://www.postman.com/gold-star-384207/workspace/recipetoria/overview)
 
-### Language and tools
-**Test Automation**: Python, Java, Playwright, Pytest, TestNG, REST Assured, Maven, Test Automation Framework Development, UI & Backend Automation, API Test Automation, End-to-End (E2E) Testing, Regression Test Automation
+### Technologies & Tools
+**Test Automation**: Python, Java, Playwright, Pytest, TestNG, REST Assured, Maven, Test Automation Framework Development, UI & Backend Automation, End-to-End (E2E) Testing
 
 **API, Data & Integration Testing:** REST API, Postman, Swagger, SQL, PostgreSQL, Oracle, Data Migration Testing, Data Integrity Validation, System Integration Testing, Apache Kafka (Manual Testing), JSON, XML, XSD, XQuery
 
@@ -29,5 +30,5 @@ I specialize in building and maintaining automated tests for complex enterprise 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-### Feedback
+### Contact
 If you have any feedback, please reach out to Anna.khizhnyakova@gmail.com
