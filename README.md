@@ -5,7 +5,6 @@ I'm a QA Automation Engineer with 8+ years of experience in software quality ass
 I specialize in building and maintaining automated tests for complex enterprise applications, with a focus on backend, API, integration, and E2E testing.
 
 ### Test artefacts
- - [Test Design Techniques](https://annakh-working-site.notion.site/Recipetopedia-Project-59a2624e07494c5cbf2a0eec06724ca5)
  - [Web app testing (Selenium)](https://github.com/AnnaKh85/REC_tests_celenium)
  - [Cypress, Docker и Jenkins](https://github.com/AnnaKh85/MyRepo_RECTests)
  - [Testing API with Postman](https://www.postman.com/gold-star-384207/workspace/recipetoria/overview)
